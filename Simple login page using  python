@@ -1,1 +1,8 @@
-# FILESvvivkd
+print("login page")
+Username= input("please enter a username :")
+Password= input("Please enter a password :")
+if username== "Great" and password== "pass" :
+  Print(Username, "has logged in")
+  Print ( 'Hello' ,Username)
+  else :
+   Print ("username or password not found ")
